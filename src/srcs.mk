@@ -1,7 +1,7 @@
 #
 # srcs.mk
 #
-# Copyright (C) 2021 infosoftbd.com
+# Copyright (C) 2023 infosoftbd.com
 #
 
 SRCS	+= main.c

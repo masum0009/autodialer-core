@@ -1,7 +1,7 @@
 #
 # Makefile
 #
-# Copyright (C) 2010 Creytiv.com
+# Copyright (C) 2023 infosoftbd.com
 #
 
 PROJECT	  := autodialer
